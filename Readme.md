@@ -1,4 +1,4 @@
-# UX com HTML / CSS 
+# UX de validação de e-mail com HTML / CSS 
 
 ## Atualização: 26 de maio de 2019 - 23:30
 ## Criação: 26 de maio de 2019
@@ -12,7 +12,6 @@
 ![HTML/CSS](/images/logo-html-css.png)
 
 #### Projeto
-> Formulário HTML e CSS com validação.
+> Formulário HTML e CSS com validação do E-mail.
 
-:. Projeto prático de ´UX em validação de formulários com HTML e CSS´.<br/> 
-Por DPW - desenvolvimentoparaweb : https://desenvolvimentoparaweb.com/ux/ux-validacao-formularios-html-css/
+:. ´UX de validação de e-mail em HTML e CSS´
