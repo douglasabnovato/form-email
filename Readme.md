@@ -31,11 +31,7 @@
 
 #### Próximo passo na aplicação
 
-- Link para o artigo da aplicação
-
-#### Anotações   
-
-- Fonte do projeto
+- Link para o artigo da aplicação 
 
 ---
 <br>
